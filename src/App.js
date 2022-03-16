@@ -1,6 +1,6 @@
 import logo from "./logo.svg";
 import "./App.css";
-import Getapi from "./components/Getapi/Getapi";
+import Getapi from "./components/Getapi/getapi";
 
 function App() {
   return (
